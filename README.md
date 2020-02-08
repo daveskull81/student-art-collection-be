@@ -2,6 +2,8 @@
     Student ArtCo Backend
 </h1>
 
+This project is used as a portfolio piece for my work as a Software Developer. This repo is a fork of the original codebase from when I last worked on it. If you are interested in discussing this further with me please feel free to reach out on [Twitter](https://twitter.com/daveskull81) or on my [website](https://www.daveinden.com).
+
 ## API Documentation
 
 #### Backend deployed at [Heroku](https://student-artco.herokuapp.com/) <br>
